@@ -206,8 +206,4 @@ https://quantity-suggestions.streamlit.app/
 
 ---
 
-## 📧 Contact
-
-For questions or support, please open an issue in the GitHub repository or contact [namanjain34710@gmail.com]
-
 ---
